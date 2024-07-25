@@ -31,7 +31,7 @@ This project is designed to evaluate design and development skills using React.j
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/school-website.git
+   git clone https://github.com/Vijayganaboina/school-website.git
    cd school-website
 
 2. **Install dependencies**
